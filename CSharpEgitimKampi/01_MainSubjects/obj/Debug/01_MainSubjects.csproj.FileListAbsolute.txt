@@ -1,0 +1,7 @@
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
