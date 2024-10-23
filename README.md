@@ -35,13 +35,16 @@ Bu bölümde, foreach döngüsünün yapısını öğrendik. Dizilerden sonra in
 📜 08_Methods (Metodlar)
 
 Bu bölümde, metod oluşturmayı ve metod türlerini öğrendik.
+
 Geriye değer döndürmeyen metodlar (void)
-Parametresiz geriye değer döndürmeyen metodlar
-Parametreli geriye değer döndürmeyen metodlar
+
+- Parametresiz geriye değer döndürmeyen metodlar
+- Parametreli geriye değer döndürmeyen metodlar
 
 Geriye değer döndüren metodlar (int, string, bool vs.)
-Parametresiz geriye değer döndüren metodlar
-Parametreli geriye değer döndüren metodlar
+
+- Parametresiz geriye değer döndüren metodlar
+- Parametreli geriye değer döndüren metodlar
 
 📜 09_Database (Veritabanı)
 
