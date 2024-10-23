@@ -1,4 +1,5 @@
 🏅 C# Eğitim Kampı 🏅
+
 Eğitmen: Murat Yücedağ | 📺 https://www.youtube.com/@MurattYucedag
 Bu eğitim kampında C# dilinin temel yapılarını öğrenmeye başladık ve heyecanla ileri seviyedeki konuları bekliyorum. Eğitim boyunca işlediğimiz konuları bu repoda bulabilirsiniz. Ve bu konularla alakalı kısa bilgiler de aşağıdadır.
 
