@@ -1,0 +1,7 @@
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb
